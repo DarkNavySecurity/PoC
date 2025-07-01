@@ -2,6 +2,9 @@
 
 A collection of proof-of-concept codes from DARKNAVY.
 
+- [CVE-2025-6554](./CVE-2025-6554)
+  - Target: Chrome Renderer
+  - Version: before 138.0.7204.96
 - [CVE-2024-5274](./CVE-2024-5274)
   - Target: Chrome Renderer
   - Version: before 125.0.6422.112
