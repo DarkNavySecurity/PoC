@@ -2,6 +2,9 @@
 
 A collection of proof-of-concept codes from DARKNAVY.
 
+- [CVE-2025-43300](./CVE-2025-43300)
+  - Target: iOS && macOS
+  - Version: before iOS 18.6.2 && macOS 14.7.8
 - [CVE-2025-6554](./CVE-2025-6554)
   - Target: Chrome Renderer
   - Version: before 138.0.7204.96
